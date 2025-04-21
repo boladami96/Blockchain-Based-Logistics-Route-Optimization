@@ -9,3 +9,7 @@ S
 #contracts/performance-tracking.clar,c/a/cae0809485c53153a7ba48fe229e6530c569fbc1
 R
 "tests/performance-tracking.test.ts,8/7/87317d0164b4c9e7f98c6957a44972b109466e0b
+M
+contracts/route-planning.clar,a/2/a29cb6a21143aaf4a72bc223ee0b19cfd3be21dc
+L
+tests/route-planning.test.ts,7/0/70dbf9ee078fef80cb81e02cf5ceb25797ca04ba
